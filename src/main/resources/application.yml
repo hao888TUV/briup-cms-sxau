@@ -9,7 +9,7 @@ server:
 spring:
   # 数据源配置
   datasource:
-    url: jdbc:mysql://localhost:3306/briup-cms?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimeZone=Asia/Shanghai
+    url: jdbc:mysql://localhost:3306/briup_cms?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimeZone=Asia/Shanghai
     username: root
     password: 5521815
 
